@@ -2,8 +2,6 @@
 Portfolio with Data Analytics projects | Python, SQL, Excel, Tableau, Power BI | Turning data into insights.
 # 👋 Hi, I'm Marcela Maris  
 
-📍 London, UK | 📧 marcelaspmaris@gmail.com | [LinkedIn](https://www.linkedin.com/in/marcela-maris-642b6938/)  
-
 ---
 
 ## 🚀 About Me  
