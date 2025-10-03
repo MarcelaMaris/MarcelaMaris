@@ -1,58 +1,74 @@
-# Marcela Maris
-Portfolio with Data Analytics projects | Python, SQL, Excel, Tableau, Power BI | Turning data into insights.
-# 👋 Hi, I'm Marcela Maris  
+# 👋 Hi, I'm Marcela Maris
+
+🎯 **Data Analytics Professional** | Mathematics background (USP) | Turning data into insights with SQL, Python, Tableau, and more.
 
 ---
 
-## 🚀 About Me  
-I am a Data Analytics professional with a strong background in Mathematics (University of São Paulo – USP, one of the top universities in Latin America) and over 13 years of experience in project coordination, publishing, and team management.  
+## 🚀 About Me
 
-Recently, I transitioned into Data Analytics by completing the **Meta Data Analytics Professional Certificate** and the **TripleTen Data Analytics Bootcamp**, gaining hands-on experience with **Python, SQL, Excel, Tableau, Power BI, and statistical analysis**.  
+I’m a **data-driven professional** with a strong foundation in **Mathematics** (University of São Paulo – USP, one of the top universities in Latin America).  
+My career has been shaped by **analytical thinking**, **problem-solving**, and managing complex projects, which naturally led me to transition into **Data Analytics**.  
+I’m motivated by the challenge of transforming data into meaningful insights that support smarter decisions.
 
-I enjoy transforming complex data into actionable insights that drive better decisions. I am open to opportunities in **Data Analytics roles** in London (on-site/hybrid) and remote collaborations worldwide.  
+For over **15 years**, I worked in the **publishing industry**, leading large-scale educational projects in Mathematics and Physics. This involved **data tracking**, **deadline management**, **stakeholder communication**, **quality assurance**, and **market research with teachers and students**—experiences that sharpened my analytical mindset and ability to work with diverse datasets and perspectives.
 
----
+After relocating to **London**, I invested in building technical skills to complement this background.  
+I completed the **Meta Data Analytics Certificate** and the **TripleTen Data Analytics Bootcamp**, gaining hands-on experience with **SQL**, **Python**, **Excel**, **statistics**, **hypothesis testing**, **dashboards**, and **business-oriented analytics projects**.
 
-## 🛠️ Tools & Technologies  
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), SQL  
-- **Data Analysis:** Excel / Google Sheets, Statistics, Hypothesis Testing, A/B Testing  
-- **Visualization:** Tableau, Power BI, Dash  
-- **Other:** Git, GitHub, Data Cleaning, Data Storytelling  
-
----
-
-## 📂 Projects  
-Here are some of my featured projects (more to come):  
-
-- 📊 **[Sales Data Dashboard](#)** – Built with Tableau, analyzing sales trends and KPIs.  
-- 🐍 **[Data Cleaning with Python](#)** – Data preprocessing using Pandas and visualization with Matplotlib.  
-- 🧪 **[A/B Testing Analysis](#)** – Applied hypothesis testing to evaluate business decisions.  
-- 📈 **[Customer Segmentation with SQL](#)** – Used SQL queries to analyze customer behavior and retention.
-
-E fique a vontade para dar uma olhada nos meus projetos aqui em baixo:
-------------
-
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Observação  | 
-| ------------        | ------------        | ------------ |------------ |
-| *Análise de Churn Mensal de Model Fitness* | [Projeto_Academia](xxxxxxxxxxxxxxxxx) | Python, ML, SKlearn| **Um projeto com Machine Learn**. Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Uso de Regressão Logistica para predizer o Churn e  Kmeans para agrupar os clientes.|
-| *Análise Baseada em Eventos de um E-commerce* | [Projeto_Analise_Eventos](xxxxxxxxxxxxxxxxxxxxx) | Python| **Um projeto com Análise Baseada em Eventos e Teste A/B**. Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise de Funil de vendas e Análise do TesteA/B, de um e-commerce de produtos alimentícios.|
-| *Análise dos Restaurantes de Los Angeles* | [Projeto_Rest_LosAngeles](xxxxxxxxxxxxxx) | Python| **Um projeto de Análise de dados**. Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), Análise das condições de mercado de retaurantes em Los Angeles, com apresentação no final.|
-| *Análise de Teste A/B de uma loja online* | [Ptojeto_TesteAB](xxxxxxxxxx) | Python| **Um projeto com Teste A/B** .Dados coletados, limpados e compilação de hipóteses. Testes A/B realizados para avaliar impacto na conversão/receita. Resultados visualizados com gráficos e análise para priorizar implementações. Foi compilado uma lista de hipóteses que podem ajudar a aumentar a receita.|
-| *Análise de Negócio* | [Projeto_Analise_Negocio](xxxxxxxxxxxxxxxxxxxxxx) | Python| **Um projeto completo de Análise de dados e Análise de Negócio**. Da definição do problema, tratamento,  passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis),geração de conclusões com métodos estatísticos e Análise de Coorte. A atividade consiste em ajudar uma empresa a otimizar suas despesas com marketing.|
-| *Análise da Zuber* | [Projeto_Zuber](xxxxxxxxxxxxxxxxx) | Python| **Um projeto completo de Análise de dados eTeste de Hipóteses**. Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), criação de gráficos e teste de hipóteses. O objetivo é entender as preferências dos passageiros e o impacto de fatores externos nas corridas.|
-| *Análise da Venda de Games de um E-commerce* | [Projeto-Integrado1](xxxxxxxxxxxxxxxxxxxx) | Python| **Projeto com  tratamento e Análise Exploratória dos Dados (EDA - Exploratory Data Analysis)**. Da definição do problema, tratamento, passando pela Análise Exploratória dos Dados (EDA - Exploratory Data Analysis), criação de gráficos. O objetivo é identificar possíveis sucessos para planejar uma campanha publicitária para 2017.|
+I’m eager to contribute to organisations that value **data-driven decision-making**, while continuously growing as a data professional and supporting impactful business outcomes.  
+I’m open to opportunities in **London (on-site or hybrid)** as well as **remote collaborations worldwide**.
 
 ---
 
-## 🎓 Certifications  
-- **Meta Data Analytics Professional Certificate** 
-- **TripleTen Data Analytics Bootcamp**  
+## 🧰 Tools & Technologies
+
+<p align="left">
+  <!-- Languages & Data -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
+
+  <!-- Visualization & BI -->
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Dash-119DFF?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash"/>
+</p>
+
+- **Languages & Data:** Python (Pandas, Matplotlib, Seaborn, Plotly), SQL  
+- **Visualization & BI:** Tableau, Power BI, Streamlit, Dash  
+- **Analytics:** Data cleaning, Exploratory Data Analysis, Hypothesis Testing, A/B Testing  
+- **Productivity:** Excel / Google Sheets  
+- **Soft skills:** Project coordination, Problem-solving, Communication, Cross-cultural teamwork
 
 ---
 
-## 💬 Let's Connect  
-Feel free to reach out to me:  
+## 📂 Featured Projects
 
-- 📧 **Email:** marcelaspmaris@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/marcela-maris-642b6938](https://www.linkedin.com/in/marcela-maris-642b6938/)  
+Here are some of my featured projects (repositories coming soon):
+
+| Project Name | Notebook / Link | Language | Description |
+|-------------|------------------|----------|-------------|
+| **Model Fitness – Customer Churn** | [Projeto_Academia](#) | Python, ML, scikit-learn | Logistic Regression and K-Means clustering for customer churn prediction and retention strategy. |
+| **E-commerce Event Analysis** | [Projeto_Analise_Eventos](#) | Python | Event-based analysis and A/B testing for a food e-commerce sales funnel. |
+| **Los Angeles Restaurants Analysis** | [Projeto_Rest_LosAngeles](#) | Python | Exploratory Data Analysis of the LA restaurant market. |
+| **A/B Testing – Online Store** | [Projeto_TesteAB](#) | Python | Hypothesis testing to evaluate revenue impact of website changes. |
+| **Marketing Expense Optimization** | [Projeto_Analise_Negocio](#) | Python | Cohort analysis and statistical methods to optimize marketing budget. |
+| **Zuber Ride Analysis** | [Projeto_Zuber](#) | Python | Hypothesis testing and data exploration to understand rider behavior. |
+| **Video Game Sales** | [Projeto_Integrado1](#) | Python | Data cleaning and EDA to identify successful game characteristics for ad campaigns. |
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **Meta Data Analytics Professional Certificate**  
+- 📊 **TripleTen Data Analytics Bootcamp**
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marcela-maris-642b6938/)  
+- 📧 [Email](mailto:marcelaspmaris@gmail.com)  
 
