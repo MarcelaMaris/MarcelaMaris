@@ -61,7 +61,7 @@ Here are some of my featured projects (repositories coming soon):
 | **A/B Testing – Online Store** | [Projeto_TesteAB](#) | Python | Hypothesis testing to evaluate revenue impact of website changes. |
 | **Marketing Expense Optimization** | [Projeto_Analise_Negocio](#) | Python | Cohort analysis and statistical methods to optimize marketing budget. |
 | **Zuber Ride Analysis** | [Projeto_Zuber](#) | Python | Hypothesis testing and data exploration to understand rider behavior. |
-| **Video Game Sales** | [Projeto_Integrado1](#) | Python | Data cleaning and EDA to identify successful game characteristics for ad campaigns. |
+| **Video Game Sales** |  [**Project 5 - ENEM Dashboard**](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard) (#) | Python | Data cleaning and EDA to identify successful game characteristics for ad campaigns. |
 
 ---
 
