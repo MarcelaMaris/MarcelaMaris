@@ -55,12 +55,7 @@ Here are some of my featured projects (repositories coming soon):
 
 | Project Name | Notebook / Link | Language | Description |
 |-------------|------------------|----------|-------------|
-| **Model Fitness – Customer Churn** | [Projeto_Academia](#) | Python, ML, scikit-learn | Logistic Regression and K-Means clustering for customer churn prediction and retention strategy. |
-| **E-commerce Event Analysis** | [Projeto_Analise_Eventos](#) | Python | Event-based analysis and A/B testing for a food e-commerce sales funnel. |
-| **Los Angeles Restaurants Analysis** | [Projeto_Rest_LosAngeles](#) | Python | Exploratory Data Analysis of the LA restaurant market. |
-| **A/B Testing – Online Store** | [Projeto_TesteAB](#) | Python | Hypothesis testing to evaluate revenue impact of website changes. |
-| **Marketing Expense Optimization** | [Projeto_Analise_Negocio](#) | Python | Cohort analysis and statistical methods to optimize marketing budget. |
-| **Zuber Ride Analysis** | [Projeto_Zuber](#) | Python | Hypothesis testing and data exploration to understand rider behavior. |
+| **Everything Plus – Customer Segmentation & Churn Analysis** | [**Project 14A - Everything Plus**](https://github.com/MarcelaMaris/Project-14A-Tripleten-Everything-plus) | Python | Project focused on customer segmentation and churn prediction using transactional data. Involves data cleaning, EDA, K-Means clustering, hypothesis testing, and predictive modeling (Logistic Regression & Random Forest). Results are shared through an interactive Tableau dashboard for business insights. |
 | **ENEM Dashboard - 2019 Analysis** |  [**Project 5 - ENEM Dashboard**](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard) | Python | Project involving data cleaning, exploratory data analysis (EDA), and interactive data visualization. From problem definition to analysis and dashboard development using Streamlit and Plotly. The goal is to explore and visualize ENEM 2019 exam results, focusing on age and gender patterns in student performance. |
 
 ---
