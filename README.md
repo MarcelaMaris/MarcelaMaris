@@ -50,17 +50,27 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 ---
 
 ## 📂 Featured Projects
+A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.  
+Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
 
-Here are some of my featured projects (repositories coming soon):
 
-| Project Name | Notebook / Link | Language | Description |
-|-------------|------------------|----------|-------------|
-| **Everything Plus – Customer Segmentation & Churn Analysis** | [**Project 14A - Everything Plus**](https://github.com/MarcelaMaris/Project-14A-Tripleten-Everything-plus) | Python | Project focused on customer segmentation and churn prediction using transactional data. Involves data cleaning, EDA, K-Means clustering, hypothesis testing, and predictive modeling (Logistic Regression & Random Forest). Results are shared through an interactive Tableau dashboard for business insights. |
-| **ENEM Dashboard - 2019 Analysis** |  [**Project 5 - ENEM Dashboard**](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard) | Python | Project involving data cleaning, exploratory data analysis (EDA), and interactive data visualization. From problem definition to analysis and dashboard development using Streamlit and Plotly. The goal is to explore and visualize ENEM 2019 exam results, focusing on age and gender patterns in student performance. |
-| **A/B Testing – Recommender System Impact** | [**Project 14B - A/B TEST**](https://github.com/MarcelaMaris/Project-14B-Tripleten-Test)  | Python | A/B testing project evaluating the impact of a new recommendation system on user conversion across funnel stages. Involves data cleaning, funnel construction, exploratory analysis, and hypothesis testing with Z-tests to assess statistical significance. |
+- #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Project-14A-Tripleten-Everything-Plus)
+  Project focused on **customer segmentation and churn prediction** using transactional data.  
+  The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest). Insights were delivered through an interactive Tableau dashboard to support marketing and retention strategies.
+   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
+
+- #### 📊 [ENEM 2019 — Interactive Dashboard](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard)
+  Project involving **data cleaning**, **exploratory data analysis (EDA)** and interactive visualization using **Streamlit** and **Plotly**.  
+  The goal was to explore ENEM 2019 exam results, focusing on **performance patterns by gender and age group** across multiple subjects.  
+  The entire analytical pipeline was developed from problem definition to deployment of a functional dashboard.
+  [Live Dashboard](https://dashboard-enem-tvu8.onrender.com)
+
+- #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/Project-14B-Tripleten-Test)
+  A/B testing project evaluating the impact of a **new recommendation system** on user conversion across different funnel stages.  
+  The analysis involved **data validation**, **conversion funnel construction**, exploratory analysis, and **proportion Z-tests** to assess the statistical significance of differences between groups.  
+  Findings informed product decisions regarding the deployment of the new recommender system.
 
 ---
-
 ## 🎓 Certifications
 
 - 🏅 **Meta Data Analytics Professional Certificate**  
