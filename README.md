@@ -70,6 +70,10 @@ Each project applies real-world data analysis workflows — from data cleaning a
   The analysis involved **data validation**, **conversion funnel construction**, exploratory analysis, and **proportion Z-tests** to assess the statistical significance of differences between groups.  
   Findings informed product decisions regarding the deployment of the new recommender system.
 
+- #### 📚 [SQL Analysis — Books, Ratings & Reviews](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
+  Project applying **SQL** to explore a book-platform dataset, reproducible via **CSV snapshots** and an in-memory **SQLite** engine.  
+  The workflow includes **schema & data quality checks**, analytical queries on **catalogue recency**, **ratings distribution**, and **author/publisher performance**, plus engagement analysis — with lightweight visuals built in **Jupyter/Matplotlib**.
+
 ---
 ## 🎓 Certifications
 
