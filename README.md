@@ -54,9 +54,9 @@ A selection of end-to-end analytical projects developed during the **[TripleTen]
 Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
 
 - #### 💰 [E-Commerce Performance & ROMI Analysis — Y.Afisha](https://github.com/MarcelaMaris/Project-8-Tripleten) 
-  Project analyzing marketing efficiency, user behavior, and financial performance of an e-commerce platform.
-  The study combined cohort analysis, LTV/CAC computation, and ROMI evaluation, identifying the most cost-effective acquisition channels and profitable customer cohorts.
-  It also included incomplete-cohort filtering and a ROMI sensitivity analysis (±10%) to validate model robustness — supporting data-driven marketing optimization and long-term profitability strategies.
+  Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
+  The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
+  It also included **incomplete-cohort filtering** and a **ROMI sensitivity analysis (±10%)** to validate model robustness — supporting **data-driven marketing optimization** and long-term profitability strategies.
 
 - #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Project-14A-Tripleten-Everything-Plus)
   Project focused on **customer segmentation and churn prediction** using transactional data.  
