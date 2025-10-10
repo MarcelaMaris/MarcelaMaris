@@ -53,11 +53,20 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.  
 Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
 
+- #### 💰 [E-Commerce Performance & ROMI Analysis — Y.Afisha](https://github.com/MarcelaMaris/Project-8-Tripleten) 
+  Project analyzing marketing efficiency, user behavior, and financial performance of an e-commerce platform.
+  The study combined cohort analysis, LTV/CAC computation, and ROMI evaluation, identifying the most cost-effective acquisition channels and profitable customer cohorts.
+  It also included incomplete-cohort filtering and a ROMI sensitivity analysis (±10%) to validate model robustness — supporting data-driven marketing optimization and long-term profitability strategies.
 
 - #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Project-14A-Tripleten-Everything-Plus)
   Project focused on **customer segmentation and churn prediction** using transactional data.  
   The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest). Insights were delivered through an interactive Tableau dashboard to support marketing and retention strategies.
    [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
+
+- #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/Project-14B-Tripleten-Test)
+  A/B testing project evaluating the impact of a **new recommendation system** on user conversion across different funnel stages.  
+  The analysis involved **data validation**, **conversion funnel construction**, exploratory analysis, and **proportion Z-tests** to assess the statistical significance of differences between groups.  
+  Findings informed product decisions regarding the deployment of the new recommender system.
 
 - #### 📊 [ENEM 2019 — Interactive Dashboard](https://github.com/MarcelaMaris/Project-5-Tripleten-ENEM-Dashboard)
   Project involving **data cleaning**, **exploratory data analysis (EDA)** and interactive visualization using **Streamlit** and **Plotly**.  
@@ -65,14 +74,11 @@ Each project applies real-world data analysis workflows — from data cleaning a
   The entire analytical pipeline was developed from problem definition to deployment of a functional dashboard.
   [Live Dashboard](https://dashboard-enem-tvu8.onrender.com)
 
-- #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/Project-14B-Tripleten-Test)
-  A/B testing project evaluating the impact of a **new recommendation system** on user conversion across different funnel stages.  
-  The analysis involved **data validation**, **conversion funnel construction**, exploratory analysis, and **proportion Z-tests** to assess the statistical significance of differences between groups.  
-  Findings informed product decisions regarding the deployment of the new recommender system.
-
 - #### 📚 [SQL Analysis — Books, Ratings & Reviews](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
   Project applying **SQL** to explore a book-platform dataset, reproducible via **CSV snapshots** and an in-memory **SQLite** engine.  
   The workflow includes **schema & data quality checks**, analytical queries on **catalogue recency**, **ratings distribution**, and **author/publisher performance**, plus engagement analysis — with lightweight visuals built in **Jupyter/Matplotlib**.
+
+
 
 ---
 ## 🎓 Certifications
