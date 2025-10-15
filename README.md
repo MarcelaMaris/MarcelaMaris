@@ -53,6 +53,12 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.  
 Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
 
+- #### 📱 [User Behavior & A/A/B Experiment - Food App](https://github.com/MarcelaMaris/Project-11-Tripleten)
+  Project analyzing in-app user behavior and an A/A/B experiment using event logs from a food delivery app.
+  The workflow included funnel construction with temporal sequencing (Main → Offers → Cart → Payment), date-range consistency checks, and group balance validation.
+  Applied two-proportion Z-tests with Bonferroni correction to evaluate statistical significance.
+  Built with Python (Pandas, NumPy, SciPy, Matplotlib, Plotly) in Jupyter Notebook, featuring funnel visualizations and event timelines for behavioral insights.
+
 - #### 💰 [E-Commerce Performance & ROMI Analysis — Y.Afisha](https://github.com/MarcelaMaris/Project-8-Tripleten) 
   Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
   The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
