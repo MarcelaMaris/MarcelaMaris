@@ -63,7 +63,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
 
   End-to-end project focused on analyzing **trending videos on YouTube**, exploring **category distribution, regional popularity, and temporal trends**.
   Built an **interactive Tableau Public dashboard** to visualize patterns in trending data, highlighting which categories dominated globally and how preferences varied across regions (US, France, India, Japan, Russia).
-  The workflow included **data aggregation and transformation** from the `trending_by_time.csv` dataset, **dashboard design and filter integration**, and insights on category relevance by country.
+  The workflow included **data aggregation and transformation**, **dashboard design and filter integration**, and insights on category relevance by country.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeTendnciasdoYoutube/Dashboard1?publish=yes) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
 
 - #### 💰 [E-Commerce Performance & ROMI Analysis — Y.Afisha](https://github.com/MarcelaMaris/Project-8-Tripleten) 
