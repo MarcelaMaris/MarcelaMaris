@@ -53,19 +53,6 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.  
 Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
 
-- #### 📱 [User Behavior & A/A/B Experiment - Food App](https://github.com/MarcelaMaris/Project-11-Tripleten)
-  Project analyzing **in-app user behavior** and an **A/A/B experiment** using event logs from a food delivery app.
-  The workflow included **funnel construction with temporal sequencing** (Main → Offers → Cart → Payment), **date-range consistency checks, and group balance validation**.
-  Applied **two-proportion Z-tests with Bonferroni correction** to evaluate statistical significance.
-  Built with **Python (Pandas, NumPy, SciPy, Matplotlib, Plotly)** in **Jupyter Notebook**, featuring **funnel visualizations and event timelines** for behavioral insights.
-
-- #### 🎥 [YouTube Trending Dashboard — Global Video Analysis](https://github.com/MarcelaMaris/Project-Youtube-Trends)
-
-  End-to-end project focused on analyzing **trending videos on YouTube**, exploring **category distribution, regional popularity, and temporal trends**.
-  Built an **interactive Tableau Public dashboard** to visualize patterns in trending data, highlighting which categories dominated globally and how preferences varied across regions (US, France, India, Japan, Russia).
-  The workflow included **data aggregation and transformation**, **dashboard design and filter integration**, and insights on category relevance by country.
-  [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeTendnciasdoYoutube/Dashboard1?publish=yes) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
-
 - #### 💰 [E-Commerce Performance & ROMI Analysis — Y.Afisha](https://github.com/MarcelaMaris/Project-8-Tripleten) 
   Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
   The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
@@ -75,6 +62,18 @@ Each project applies real-world data analysis workflows — from data cleaning a
   Project focused on **customer segmentation and churn prediction** using transactional data.  
   The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest). Insights were delivered through an interactive Tableau dashboard to support marketing and retention strategies.
    [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
+
+- #### 📱 [User Behavior & A/A/B Experiment - Food App](https://github.com/MarcelaMaris/Project-11-Tripleten)
+  Project analyzing **in-app user behavior** and an **A/A/B experiment** using event logs from a food delivery app.
+  The workflow included **funnel construction with temporal sequencing** (Main → Offers → Cart → Payment), **date-range consistency checks, and group balance validation**.
+  Applied **two-proportion Z-tests with Bonferroni correction** to evaluate statistical significance.
+  Built with **Python (Pandas, NumPy, SciPy, Matplotlib, Plotly)** in **Jupyter Notebook**, featuring **funnel visualizations and event timelines** for behavioral insights.
+
+- #### 🎥 [YouTube Trending Dashboard — Global Video Analysis](https://github.com/MarcelaMaris/Project-Youtube-Trends)
+  End-to-end project focused on analyzing **trending videos on YouTube**, exploring **category distribution, regional popularity, and temporal trends**.
+  Built an **interactive Tableau Public dashboard** to visualize patterns in trending data, highlighting which categories dominated globally and how preferences varied across regions (US, France, India, Japan, Russia).
+  The workflow included **data aggregation and transformation**, **dashboard design and filter integration**, and insights on category relevance by country.
+  [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeTendnciasdoYoutube/Dashboard1?publish=yes)· [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
 
 - #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/Project-14B-Tripleten-Test)
   A/B testing project evaluating the impact of a **new recommendation system** on user conversion across different funnel stages.  
@@ -90,8 +89,6 @@ Each project applies real-world data analysis workflows — from data cleaning a
 - #### 📚 [SQL Analysis — Books, Ratings & Reviews](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
   Project applying **SQL** to explore a book-platform dataset, reproducible via **CSV snapshots** and an in-memory **SQLite** engine.  
   The workflow includes **schema & data quality checks**, analytical queries on **catalogue recency**, **ratings distribution**, and **author/publisher performance**, plus engagement analysis — with lightweight visuals built in **Jupyter/Matplotlib**.
-
-
 
 ---
 ## 🎓 Certifications
