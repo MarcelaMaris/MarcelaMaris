@@ -69,7 +69,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
   Applied **two-proportion Z-tests with Bonferroni correction** to evaluate statistical significance.
   Built with **Python (Pandas, NumPy, SciPy, Matplotlib, Plotly)** in **Jupyter Notebook**, featuring **funnel visualizations and event timelines** for behavioral insights.
 
-- #### 🎥 [YouTube Trending Dashboard — Global Video Analysis](https://github.com/MarcelaMaris/Project-Youtube-Trends)
+- #### 🎥 [YouTube Trending Dashboard — Global Video Analysis](https://github.com/MarcelaMaris/YouTube-Trending-Dashboard)
   End-to-end project focused on analyzing **trending videos on YouTube**, exploring **category distribution, regional popularity, and temporal trends**.
   Built an **interactive Tableau Public dashboard** to visualize patterns in trending data, highlighting which categories dominated globally and how preferences varied across regions (US, France, India, Japan, Russia).
   The workflow included **data aggregation and transformation**, **dashboard design and filter integration**, and insights on category relevance by country.
