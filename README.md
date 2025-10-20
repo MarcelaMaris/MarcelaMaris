@@ -53,7 +53,7 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.  
 Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
 
-- #### 💰 [E-Commerce Performance & ROMI Analysis — Y.Afisha](https://github.com/MarcelaMaris/Project-8-Tripleten) 
+- #### 💰 [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/Project-8-Tripleten) 
   Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
   The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
   It also included **incomplete-cohort filtering** and a **ROMI sensitivity analysis (±10%)** to validate model robustness — supporting **data-driven marketing optimization** and long-term profitability strategies.
@@ -63,7 +63,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
   The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest). Insights were delivered through an interactive Tableau dashboard to support marketing and retention strategies.
    [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
 
-- #### 📱 [User Behavior & A/A/B Experiment - Food App](https://github.com/MarcelaMaris/Project-11-Tripleten)
+- #### 📱 [User Behavior Funnell_A/A/B Testing](https://github.com/MarcelaMaris/Project-11-Tripleten)
   Project analyzing **in-app user behavior** and an **A/A/B experiment** using event logs from a food delivery app.
   The workflow included **funnel construction with temporal sequencing** (Main → Offers → Cart → Payment), **date-range consistency checks, and group balance validation**.
   Applied **two-proportion Z-tests with Bonferroni correction** to evaluate statistical significance.
@@ -90,6 +90,78 @@ Each project applies real-world data analysis workflows — from data cleaning a
 - #### 📚 [SQL Analysis — Books, Ratings & Reviews](https://github.com/MarcelaMaris/Project-14C-Tripleten-SQL)
   Project applying **SQL** to explore a book-platform dataset, reproducible via **CSV snapshots** and an in-memory **SQLite** engine.  
   The workflow includes **schema & data quality checks**, analytical queries on **catalogue recency**, **ratings distribution**, and **author/publisher performance**, plus engagement analysis — with lightweight visuals built in **Jupyter/Matplotlib**.
+
+
+Perfeito 💪 — atualizar essa seção com nomes padronizados (iguais aos repositórios) vai deixar seu perfil **muito mais consistente e profissional**, especialmente para recrutadores internacionais.
+
+Aqui vai sua **versão revisada e padronizada da seção “📂 Featured Projects”**, com os links ajustados e os nomes coerentes com os repositórios sugeridos:
+
+---
+
+## 📂 Featured Projects
+
+A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.
+Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
+
+---
+
+* #### 💰 [ECommerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/ECommerce-Performance-ROMI-Analysis)
+
+  Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
+  The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
+  It also included **incomplete-cohort filtering** and a **ROMI sensitivity analysis (±10%)** to validate model robustness — supporting **data-driven marketing optimization** and long-term profitability strategies.
+
+---
+
+* #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis)
+
+  Project focused on **customer segmentation and churn prediction** using transactional data.
+  The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest).
+  Insights were delivered through an **interactive Tableau dashboard** to support marketing and retention strategies.
+  [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
+
+---
+
+* #### 📱 [User Behaviour Funnel & A/A/B Testing](https://github.com/MarcelaMaris/User-Behaviour-Funnel-A-B-Testing)
+
+  Behavioral analysis and A/A/B experiment on a **food delivery app**, using event logs to study **user navigation and conversion funnels**.
+  Implemented **two-proportion Z-tests with Bonferroni correction** to verify statistical significance.
+  The workflow included **funnel construction with temporal sequencing** (Main → Offers → Cart → Payment), **date consistency validation**, and **group balance checks**.
+  Built with **Python (Pandas, NumPy, SciPy, Matplotlib, Plotly)** in **Jupyter Notebook**, featuring **funnel visualizations and behavioral timelines**.
+
+---
+
+* #### 🎥 [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
+
+  End-to-end Tableau project analyzing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
+  Built an **interactive Tableau Public dashboard** to visualize global trends and regional preferences (US, France, India, Japan, Russia).
+  The workflow covered **data aggregation, transformation, dashboard design, filter integration**, and **insight extraction**.
+  [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
+
+---
+
+* #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
+
+  A/B testing project evaluating the impact of a **new recommendation system** on user conversion across different funnel stages.
+  The analysis included **data validation**, **conversion funnel construction**, **exploratory analysis**, and **proportion Z-tests** to assess statistical significance.
+  Findings informed product decisions regarding the **deployment of the new recommender system**.
+
+---
+
+* #### 📊 [Education Performance Interactive Dashboard](https://github.com/MarcelaMaris/Education-Performance-Interactive-Dashboard)
+
+  Interactive dashboard project using **Streamlit** and **Plotly** to explore **student performance metrics**.
+  The analysis focused on **performance patterns by gender and age group across subjects**, showcasing visual storytelling and app deployment skills.
+  [Live Dashboard](https://dashboard-enem-tvu8.onrender.com)
+
+---
+
+* #### 📚 [SQL Books, Ratings & Reviews Analysis](https://github.com/MarcelaMaris/SQL-Books-Ratings-Reviews-Analysis)
+
+  SQL-based project exploring a **book platform dataset**, reproducible via **CSV snapshots** and an in-memory **SQLite** engine.
+  The workflow included **schema validation, data quality checks**, analytical queries on **catalogue recency, ratings distribution**, and **author/publisher performance**, with clear visuals built in **Jupyter/Matplotlib**.
+
+---
 
 ---
 ## 🎓 Certifications
