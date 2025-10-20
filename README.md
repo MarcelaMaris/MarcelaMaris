@@ -105,7 +105,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
 
 ---
 
-* #### 💰 [ECommerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/ECommerce-Performance-ROMI-Analysis)
+* #### 💰 [ECommerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
 
   Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
   The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
@@ -113,7 +113,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
 
 ---
 
-* #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis)
+* #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis) 
 
   Project focused on **customer segmentation and churn prediction** using transactional data.
   The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest).
@@ -122,7 +122,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
 
 ---
 
-* #### 📱 [User Behaviour Funnel & A/A/B Testing](https://github.com/MarcelaMaris/User-Behaviour-Funnel-A-B-Testing)
+* #### 📱 [User Behaviour Funnel & A/A/B Testing](https://github.com/MarcelaMaris/User-Behaviour-Funnel-A-B-Testing) 
 
   Behavioral analysis and A/A/B experiment on a **food delivery app**, using event logs to study **user navigation and conversion funnels**.
   Implemented **two-proportion Z-tests with Bonferroni correction** to verify statistical significance.
@@ -132,7 +132,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
 ---
 
 * #### 🎥 [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
-
+  
   End-to-end Tableau project analyzing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
   Built an **interactive Tableau Public dashboard** to visualize global trends and regional preferences (US, France, India, Japan, Russia).
   The workflow covered **data aggregation, transformation, dashboard design, filter integration**, and **insight extraction**.
