@@ -56,7 +56,7 @@ Each project applies real-world data analysis workflows — from data cleaning a
 
 ---
 
-* #### 💰 [ECommerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
+* #### 💰 [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
 
   Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
   The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
