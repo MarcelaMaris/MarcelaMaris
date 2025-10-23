@@ -20,6 +20,7 @@ For over **15 years**, I worked in the **publishing industry**, leading large-sc
 After relocating to **London**, I invested in building technical skills to complement this background.  
 I completed the **Meta Data Analytics Certificate** and the **TripleTen Data Analytics Bootcamp**, gaining hands-on experience with **SQL**, **Python**, **Excel**, **statistics**, **hypothesis testing**, **dashboards**, and **business-oriented analytics projects**.
 
+Currently applying my analytics skills through independent projects and freelance collaborations, turning data into insights and actionable stories.
 I’m eager to contribute to organisations that value **data-driven decision-making**, while continuously growing as a data professional and supporting impactful business outcomes.  
 I’m open to opportunities in **London (on-site or hybrid)** as well as **remote collaborations worldwide**.
 
@@ -53,6 +54,8 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 
 A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.
 Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
+
+*Note: To ensure confidentiality, only public or educational datasets are showcased here. Real-world client data from freelance or independent work is not included.*
 
 ---
 
