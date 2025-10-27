@@ -110,11 +110,10 @@ Each project applies real-world data analysis workflows — from data cleaning a
 
 ---
 
-* #### 📚 [SQL Books, Ratings & Reviews Analysis](https://github.com/MarcelaMaris/SQL-Books-Ratings-Reviews-Analysis)
+* #### 📚 [Business Reporting with SQL – Multi-table Data Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
 
-  SQL-based project exploring a **book platform dataset**, reproducible via **CSV snapshots** and an in-memory **SQLite** engine.
-  The workflow included **schema validation, data quality checks**, analytical queries on **catalogue recency, ratings distribution**, and **author/publisher performance**, with clear visuals built in **Jupyter/Matplotlib**.
-
+  Project demonstrating **SQL for data modelling, performance analysis, and KPI generation using a multi-table dataset**.
+  The workflow covered schema validation, data quality checks, and analytical queries on performance metrics and category trends, with visual outputs built in Jupyter/Matplotlib to simulate a business reporting workflow.
 ---
 
 ## 🎓 Certifications
