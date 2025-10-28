@@ -7,25 +7,19 @@
 ![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-blue)
 ![Location](https://img.shields.io/badge/Location-London%2C%20UK-red)
 
-
-
 ## 🚀 About Me
-
-I’m a **data-driven professional** with a strong foundation in **Mathematics** (University of São Paulo – USP, one of the top universities in Latin America).  
-My career has been shaped by **analytical thinking**, **problem-solving**, and managing complex projects, which naturally led me to transition into **Data Analytics**.  
-I’m motivated by the challenge of transforming data into meaningful insights that support smarter decisions.
-
-For over **15 years**, I worked in the **publishing industry**, leading large-scale educational projects in Mathematics and Physics. This involved **data tracking**, **deadline management**, **stakeholder communication**, **quality assurance**, and **market research with teachers and students**—experiences that sharpened my analytical mindset and ability to work with diverse datasets and perspectives.
-
-After relocating to **London**, I invested in building technical skills to complement this background.  
-I completed the **Meta Data Analytics Certificate** and the **TripleTen Data Analytics Bootcamp**, gaining hands-on experience with **SQL**, **Python**, **Excel**, **statistics**, **hypothesis testing**, **dashboards**, and **business-oriented analytics projects**.
-
-Currently applying my analytics skills through independent projects and freelance collaborations, turning data into insights and actionable stories.
-I’m eager to contribute to organisations that value **data-driven decision-making**, while continuously growing as a data professional and supporting impactful business outcomes.  
-I’m open to opportunities in **London (on-site or hybrid)** as well as **remote collaborations worldwide**.
+> I’m a **Data Analyst** with a strong foundation in **Mathematics (University of São Paulo – USP)** and over ten years of experience in the **publishing** and **education industry**, where I used **data** to support **strategic**, **operational**, and **financial decisions**.
+>
+> Throughout my career, I’ve applied **analytical thinking**, **project coordination**, and **performance tracking** to improve **efficiency**, **optimise processes**, and **align teams** around measurable outcomes. These experiences built my ability to **translate complex datasets into clear insights** that drive smarter **business decisions**.
+>
+> After relocating to **London**, I expanded my **technical expertise** through the **Meta / TripleTen Data Analytics Certificate**, developing hands-on projects using **Python**, **SQL**, **Power BI**, **Tableau**, and **Excel**. My recent work includes **dashboards**, **cohort analysis**, **ROI measurement**, and **predictive modelling** applied to **marketing**, **financial**, and **business intelligence** scenarios.
+>
+> Currently, I apply my skills through **independent projects** and **freelance collaborations**, focusing on **transforming data into actionable stories** and supporting **data-driven strategies**.
+>
+> 🔍 **Open to opportunities** in **Data Analytics**, **Business Intelligence**, and **Performance Insights** — across sectors such as **Education**, **Finance**, and **Marketing**.
+> 🌍 **Based in London, UK** | **Right to Work (Spouse Visa)** | **On-site / Hybrid / Remote**
 
 ---
-
 ## 🧰 Tools & Technologies
 
 <p align="left">
@@ -52,10 +46,11 @@ I’m open to opportunities in **London (on-site or hybrid)** as well as **remot
 
 ## 📂 Featured Projects
 
-A selection of end-to-end analytical projects developed during the **[TripleTen](https://tripleten.com) Data Analytics Bootcamp**.
-Each project applies real-world data analysis workflows — from data cleaning and EDA to modeling, statistical testing, and visualization.
+A selection of end-to-end analytical projects developed independently and during the TripleTen Data Analytics Bootcamp. Each project applies real-world data workflows — from data cleaning and exploratory analysis to modelling, statistical testing, and dashboard visualisation.
 
-*Note: To ensure confidentiality, only public or educational datasets are showcased here. Real-world client data from freelance or independent work is not included.*
+These portfolio projects complement my professional background in data-driven decision-making and business analysis.
+
+*Note: Only public or educational datasets are showcased. Real-world client data from freelance or independent work is not included.*
 
 ---
 
