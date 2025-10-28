@@ -1,6 +1,5 @@
-
 # 👋 Hi, I'm Marcela Maris
-🎯 Data Analyst | Business Analyst • SQL • Python • Excel • Power BI • Tableau • Data Visualization | Education • Business • Finance • Marketing
+🎯 Data Analyst | Business Analyst • SQL • Python • Excel • Power BI • Tableau • Data Visualisation | Education • Business • Finance • Marketing
 
 
 ![Status](https://img.shields.io/badge/Status-Building%20Portfolio-1abc9c)
@@ -29,7 +28,7 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets"/>
 
-  <!-- Visualization & BI -->
+  <!-- Visualisation & BI -->
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
@@ -37,7 +36,7 @@
 </p>
 
 - **Languages & Data:** Python (Pandas, Matplotlib, Seaborn, Plotly), SQL  
-- **Visualization & BI:** Tableau, Power BI, Streamlit, Dash  
+- **Visualisation & BI:** Tableau, Power BI, Streamlit, Dash  
 - **Analytics:** Data cleaning, Exploratory Data Analysis, Hypothesis Testing, A/B Testing  
 - **Productivity:** Excel / Google Sheets  
 - **Soft skills:** Project coordination, Problem-solving, Communication, Cross-cultural teamwork
@@ -49,8 +48,9 @@
 A curated selection of **end-to-end data analytics projects** demonstrating skills across **data cleaning**, **exploratory analysis**, **visualisation**, and **business insight generation** — covering **marketing**, **product**, **education**, and **business intelligence** domains.
 Each project applies real-world analytical workflows using **Python**, **SQL**, **Tableau**, **Power BI**, and **Streamlit**, transforming data into **actionable insights** that support **data-driven decision-making**.
 
-*Note: Projects use public or educational datasets and represent simulated business scenarios.*
 
+
+*Note: Projects use public or educational datasets and represent simulated business scenarios.*
 ---
 
 * #### 💰 [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
@@ -78,8 +78,8 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
 ---
 
 * #### 🎥 [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
-  End-to-end Tableau project analyzing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
-  Built an **interactive Tableau Public dashboard** to visualize global trends and regional preferences (US, France, India, Japan, Russia).
+  End-to-end Tableau project analysing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
+  Built an **interactive Tableau Public dashboard** to visualise global trends and regional preferences (US, France, India, Japan, Russia).
   The workflow covered **data aggregation, transformation, dashboard design, filter integration**, and **insight extraction**.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
 ---
