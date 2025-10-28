@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Marcela Maris
-🎯 Data Analyst | Business Analyst • SQL • Python • Excel • Power BI • Tableau • Data Visualization | Education Sector 
+🎯 Data Analyst | Business Analyst • SQL • Python • Excel • Power BI • Tableau • Data Visualization | Education • Business • Finance • Marketing
 
 
 ![Status](https://img.shields.io/badge/Status-Building%20Portfolio-1abc9c)
