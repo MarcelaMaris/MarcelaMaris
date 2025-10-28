@@ -46,69 +46,63 @@
 
 ## 📂 Featured Projects
 
-A selection of end-to-end analytical projects developed independently and during the TripleTen Data Analytics Bootcamp. Each project applies real-world data workflows — from data cleaning and exploratory analysis to modelling, statistical testing, and dashboard visualisation.
+A curated selection of **end-to-end data analytics projects** demonstrating skills across **data cleaning**, **exploratory analysis**, **visualisation**, and **business insight generation** — covering **marketing**, **product**, **education**, and **business intelligence** domains.
+Each project applies real-world analytical workflows using **Python**, **SQL**, **Tableau**, **Power BI**, and **Streamlit**, transforming data into **actionable insights** that support **data-driven decision-making**.
 
-These portfolio projects complement my professional background in data-driven decision-making and business analysis.
-
-*Note: Only public or educational datasets are showcased. Real-world client data from freelance or independent work is not included.*
+*Note: Projects use public or educational datasets and represent simulated business scenarios.*
 
 ---
 
 * #### 💰 [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
-
-  Project analyzing **marketing efficiency, user behavior, and financial performance** of an e-commerce platform.
-  The study combined **cohort analysis, LTV/CAC computation, and ROMI evaluation**, identifying the most cost-effective acquisition channels and profitable customer cohorts.
-  It also included **incomplete-cohort filtering** and a **ROMI sensitivity analysis (±10%)** to validate model robustness — supporting **data-driven marketing optimization** and long-term profitability strategies.
+  Analysis of **marketing efficiency, user behaviour, and financial performance** for an e-commerce platform.
+  Combined **cohort analysis**, **LTV/CAC computation**, and **ROMI evaluation** to identify the most cost-effective acquisition channels and profitable customer cohorts.
+  Included **incomplete-cohort filtering** and a **ROMI sensitivity analysis (±10%)** to validate model robustness.
+  Results were summarised in an **interactive Tableau dashboard**, supporting **data-driven marketing optimisation** and **business growth decisions**.
 
 ---
 
 * #### 🛒 [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis) 
-
-  Project focused on **customer segmentation and churn prediction** using transactional data.
-  The workflow included **data cleaning**, **exploratory data analysis**, **K-Means clustering**, hypothesis testing, and **predictive modeling** (Logistic Regression & Random Forest).
-  Insights were delivered through an **interactive Tableau dashboard** to support marketing and retention strategies.
+  Focused on **customer segmentation** and **churn prediction** using transactional data.
+  Implemented **data cleaning**, **exploratory analysis**, **K-Means clustering**, and **predictive modelling** with **Logistic Regression** and **Random Forest**.
+  Delivered insights through an **interactive Tableau dashboard**, supporting **targeted marketing strategies** and **retention campaigns**.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
 
 ---
 
 * #### 📱 [User Behaviour Funnel & A/A/B Testing](https://github.com/MarcelaMaris/User-Behaviour-Funnel-A-B-Testing) 
-
-  Behavioral analysis and A/A/B experiment on a **food delivery app**, using event logs to study **user navigation and conversion funnels**.
-  Implemented **two-proportion Z-tests with Bonferroni correction** to verify statistical significance.
-  The workflow included **funnel construction with temporal sequencing** (Main → Offers → Cart → Payment), **date consistency validation**, and **group balance checks**.
-  Built with **Python (Pandas, NumPy, SciPy, Matplotlib, Plotly)** in **Jupyter Notebook**, featuring **funnel visualizations and behavioral timelines**.
+  Simulated a **product analytics scenario** to evaluate **user conversion** and **app engagement** for a food delivery platform.
+  Built **behavioural funnels** (Main → Offers → Cart → Payment) and conducted **A/A/B tests** using **two-proportion Z-tests with Bonferroni correction** to ensure statistical validity.
+  Included **temporal sequencing**, **date consistency validation**, and **group balance checks** for data quality.
+  Findings helped assess **conversion efficiency** and support **evidence-based product decisions**.
 
 ---
 
 * #### 🎥 [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
-  
   End-to-end Tableau project analyzing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
   Built an **interactive Tableau Public dashboard** to visualize global trends and regional preferences (US, France, India, Japan, Russia).
   The workflow covered **data aggregation, transformation, dashboard design, filter integration**, and **insight extraction**.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
-
 ---
-
-* #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
-
-  A/B testing project evaluating the impact of a **new recommendation system** on user conversion across different funnel stages.
-  The analysis included **data validation**, **conversion funnel construction**, **exploratory analysis**, and **proportion Z-tests** to assess statistical significance.
-  Findings informed product decisions regarding the **deployment of the new recommender system**.
-
----
-
 * #### 📊 [Education Performance Interactive Dashboard](https://github.com/MarcelaMaris/Education-Performance-Interactive-Dashboard)
-
-  Interactive dashboard project using **Streamlit** and **Plotly** to explore **student performance metrics**.
-  The analysis focused on **performance patterns by gender and age group across subjects**, showcasing visual storytelling and app deployment skills.
+  Interactive dashboard built with **Streamlit** and **Plotly** to analyse **student performance metrics** from national exam data.
+  Explored **achievement patterns by gender, subject, and age group**, demonstrating **visual storytelling** and **app deployment** skills.
+  Highlighted how **educational data** can be transformed into **actionable insights** for policy and performance evaluation.
   [Live Dashboard](https://dashboard-enem-tvu8.onrender.com)
 
 ---
 
-* #### 📚 [Business Reporting with SQL – Multi-table Data Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
+* #### 🧪 [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
+  Simulated a **product optimisation experiment** to assess the impact of a **new recommender system** on user conversion.
+  Included **data validation**, **conversion funnel construction**, **exploratory analysis**, and **proportion Z-tests** to evaluate statistical significance.
+  Findings informed **data-driven product rollout** and **feature-adoption strategies**.
+  
+---
 
-  Project demonstrating **SQL for data modelling, performance analysis, and KPI generation using a multi-table dataset**.
-  The workflow covered schema validation, data quality checks, and analytical queries on performance metrics and category trends, with visual outputs built in Jupyter/Matplotlib to simulate a business reporting workflow.
+* #### 📚 [Business Reporting with SQL – Multi-table Data Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
+  Demonstrated **SQL-based data modelling** and **KPI generation** using a **multi-table relational dataset**.
+  Covered **schema validation**, **data quality checks**, and **analytical queries** for **financial performance** and **category trend analysis**.
+  Results were summarised in **visual reports** simulating **business intelligence dashboards**, supporting **strategic and financial reporting** workflows.
+  
 ---
 
 ## 🎓 Certifications
