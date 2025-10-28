@@ -48,9 +48,8 @@
 A curated selection of **end-to-end data analytics projects** demonstrating skills across **data cleaning**, **exploratory analysis**, **visualisation**, and **business insight generation** — covering **marketing**, **product**, **education**, and **business intelligence** domains.
 Each project applies real-world analytical workflows using **Python**, **SQL**, **Tableau**, **Power BI**, and **Streamlit**, transforming data into **actionable insights** that support **data-driven decision-making**.
 
-
-
 *Note: Projects use public or educational datasets and represent simulated business scenarios.*
+
 ---
 
 * #### 💰 [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
