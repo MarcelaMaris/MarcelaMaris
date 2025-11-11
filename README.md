@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover-readme.png" width="100%" alt="Marcela Maris – Data Analyst">
+</p>
+
 # 👋 Hi, I'm Marcela Maris
 🎯 Data Analyst | Business Analyst • SQL • Python • Excel • Power BI • Tableau • Data Visualisation | Education • Business • Finance • Marketing
 
