@@ -58,7 +58,7 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
 <sub><i>*Note: Projects use public or educational datasets and represent simulated business scenarios.*
 
 ---
-* ### <img src="icons/education.png" width="40"/> &nbsp; [Student Engagement & Dropout Analytics — Who Will Drop Out?](https://github.com/MarcelaMaris/who-will-dropout)
+### <img src="icons/education.png" width="40"/> &nbsp; [Student Engagement & Dropout Analytics — Who Will Drop Out?](https://github.com/MarcelaMaris/who-will-dropout)
   End-to-end analysis of **student engagement, retention, and dropout behaviour** in large-scale online education using the Open University Learning Analytics Dataset (OULAD).
   The project combines behavioural feature engineering, engagement funnels, cohort retention analysis, and clustering to identify **early disengagement signals and high-risk student profiles**.
   Findings were translated into a **single-page Power BI executive dashboard**, designed to support early-warning systems, targeted interventions, and data-driven retention strategies in digital   education platforms. <br>
@@ -67,24 +67,21 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
 
 ---
 
-* ### <img src="icons/eccommerce.png" width="40"/> &nbsp; [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
+### <img src="icons/eccommerce.png" width="40"/> &nbsp; [E-Commerce Performance & ROMI Analysis](https://github.com/MarcelaMaris/E-Commerce-Performance-ROMI-Analysis) 
   Analysis of **marketing efficiency, user behaviour, and financial performance** for an e-commerce platform.
   Combined **cohort analysis**, **LTV/CAC computation**, and **ROMI evaluation** to identify the most cost-effective acquisition channels and profitable customer cohorts.
   Included **incomplete-cohort filtering** and a **ROMI sensitivity analysis (±10%)** to validate model robustness.
   Results were summarised in an **interactive Tableau dashboard**, supporting **data-driven marketing optimisation** and **business growth decisions**.
 
 ---
-
-* ### <img src="icons/cohort.png" width="40"/> &nbsp; [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis) 
+### <img src="icons/cohort.png" width="40"/> &nbsp; [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis) 
   Focused on **customer segmentation** and **churn prediction** using transactional data.
   Implemented **data cleaning**, **exploratory analysis**, **K-Means clustering**, and **predictive modelling** with **Logistic Regression** and **Random Forest**.
   Delivered insights through an **interactive Tableau dashboard**, supporting **targeted marketing strategies** and **retention campaigns**.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
 
 ---
-
-* ### <img src="icons/funnel.png" width="40"/> &nbsp; [User Behaviour Funnel & A/B Testing](https://github.com/MarcelaMaris/User-Behaviour-Funnel-A-B-Testing)
-
+### <img src="icons/funnel.png" width="40"/> &nbsp; [User Behaviour Funnel & A/B Testing](https://github.com/MarcelaMaris/User-Behaviour-Funnel-A-B-Testing)
   Simulated a **product analytics scenario** to evaluate **user conversion** and **app engagement** for a food delivery platform.
   Built **behavioural funnels** (Main → Offers → Cart → Payment) and conducted **A/A/B tests** using **two-proportion Z-tests with Bonferroni correction** to ensure statistical validity.
   Included **temporal sequencing**, **date consistency validation**, and **group balance checks** for data quality.
@@ -92,28 +89,27 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
 
 ---
 
-* ### <img src="icons/dashboard.png" width="40"/> &nbsp; [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
+### <img src="icons/dashboard.png" width="40"/> &nbsp; [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
   End-to-end Tableau project analysing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
   Built an **interactive Tableau Public dashboard** to visualise global trends and regional preferences (US, France, India, Japan, Russia).
   The workflow covered **data aggregation, transformation, dashboard design, filter integration**, and **insight extraction**.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
+  
 ---
-* ### <img src="icons/education.png" width="40"/> &nbsp; [Education Performance Interactive Dashboard](https://github.com/MarcelaMaris/Education-Performance-Interactive-Dashboard)
+### <img src="icons/education.png" width="40"/> &nbsp; [Education Performance Interactive Dashboard](https://github.com/MarcelaMaris/Education-Performance-Interactive-Dashboard)
   Interactive dashboard built with **Streamlit** and **Plotly** to analyse **student performance metrics** from national exam data.
   Explored **achievement patterns by gender, subject, and age group**, demonstrating **visual storytelling** and **app deployment** skills.
   Highlighted how **educational data** can be transformed into **actionable insights** for policy and performance evaluation.
   [Live Dashboard](https://dashboard-enem-tvu8.onrender.com)
 
 ---
-
-* ### <img src="icons/testingAB.png" width="40"/> &nbsp; [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
+### <img src="icons/testingAB.png" width="40"/> &nbsp; [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
   Simulated a **product optimisation experiment** to assess the impact of a **new recommender system** on user conversion.
   Included **data validation**, **conversion funnel construction**, **exploratory analysis**, and **proportion Z-tests** to evaluate statistical significance.
   Findings informed **data-driven product rollout** and **feature-adoption strategies**.
   
 ---
-
-* ### <img src="icons/business.png" width="40"/> &nbsp; [Business Reporting with SQL – Multi-table Data Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
+### <img src="icons/business.png" width="40"/> &nbsp; [Business Reporting with SQL – Multi-table Data Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
   Demonstrated **SQL-based data modelling** and **KPI generation** using a **multi-table relational dataset**.
   Covered **schema validation**, **data quality checks**, and **analytical queries** for **financial performance** and **category trend analysis**.
   Results were summarised in **visual reports** simulating **business intelligence dashboards**, supporting **strategic and financial reporting** workflows.
