@@ -4,8 +4,7 @@
 
 # Hi, I'm Marcela Maris
 
-**Data Analyst | Business Intelligence | SQL • Python • Power BI • Tableau • Excel**  
-Education • Business • Finance • Marketing
+**Data Analyst | Business Analyst | SQL • Python • Power BI • Tableau • Excel |** Education • Business • Finance • Marketing
 
 <p align="left">
   <img src="icons/estrela.png" width="18"/> &nbsp; <b>Status:</b> Building Portfolio  
@@ -19,7 +18,7 @@ Education • Business • Finance • Marketing
 
 ## <img src="icons/ferramento.png" width="28"/> &nbsp; About Me
 
-I’m a **Data Analyst** with a strong foundation in **Mathematics (University of São Paulo – USP)** and over ten years of experience in the **publishing** and **education** industries, where I used data to support **strategic**, **operational**, and **financial decisions**.
+I’m a **Data Analyst** and **Business Analyst** with a strong foundation in **Mathematics (University of São Paulo – USP)** and over ten years of experience in the **publishing** and **education** industries, where I used data to support **strategic**, **operational**, and **financial decisions**.
 
 Throughout my career, I’ve applied **analytical thinking**, **project coordination**, and **performance tracking** to improve efficiency, optimise processes, and align teams around measurable outcomes. These experiences strengthened my ability to **translate complex datasets into clear, actionable insights**.
 
@@ -56,17 +55,13 @@ Based in London, UK | Right to Work (Spouse Visa) | On-site / Hybrid / Remote
 
 ## <img src="icons/dashboard.png" width="28"/> &nbsp; Featured Projects
 
-## 📂 Featured Projects
-
 A curated selection of **end-to-end data analytics projects** demonstrating skills across **data cleaning**, **exploratory analysis**, **visualisation**, and **business insight generation** — covering **marketing**, **product**, **education**, and **business intelligence** domains.
 Each project applies real-world analytical workflows using **Python**, **SQL**, **Tableau**, **Power BI**, and **Streamlit**, transforming data into **actionable insights** that support **data-driven decision-making**.
 
 <sub><i>*Note: Projects use public or educational datasets and represent simulated business scenarios.*
 
 ---
-### <img src="icons/education.png" width="26"/> &nbsp;
-[Student Engagement & Dropout Analytics — Who Will Drop Out?](https://github.com/MarcelaMaris/who-will-dropout)
-* #### 🎓 [Student Engagement & Dropout Analytics — Who Will Drop Out?](https://github.com/MarcelaMaris/who-will-dropout) 
+* ### <img src="icons/education.png" width="26"/> &nbsp; [Student Engagement & Dropout Analytics — Who Will Drop Out?](https://github.com/MarcelaMaris/who-will-dropout)
   End-to-end analysis of **student engagement, retention, and dropout behaviour** in large-scale online education using the Open University Learning Analytics Dataset (OULAD).
   The project combines behavioural feature engineering, engagement funnels, cohort retention analysis, and clustering to identify **early disengagement signals and high-risk student profiles**.
   Findings were translated into a **single-page Power BI executive dashboard**, designed to support early-warning systems, targeted interventions, and data-driven retention strategies in digital   education platforms. <br>
