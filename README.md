@@ -63,7 +63,7 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
   The project combines behavioural feature engineering, engagement funnels, cohort retention analysis, and clustering to identify **early disengagement signals and high-risk student profiles**.
   Findings were translated into a **single-page Power BI executive dashboard**, designed to support early-warning systems, targeted interventions, and data-driven retention strategies in digital   education platforms. <br>
 🔗 Project repository & analysis: GitHub <br>
-📊 Power BI dashboard (PDF & .pbix): Available in project folder
+📊 Power BI dashboard (PDF & .pbix): [Download Dashboard (PDF)](docs/dashboard/Who_Will_Drop_Out_Dashboard.pdf)
 
 ---
 
