@@ -16,25 +16,22 @@
 
 ---
 
-## <img src="icons/ferramento.png" width="40"/> &nbsp; About Me
+## About Me
 
-I’m a **Data Analyst** and **Business Analyst** with a strong foundation in **Mathematics (University of São Paulo – USP)** and over ten years of experience in the **publishing** and **education** industries, where I used data to support **strategic**, **operational**, and **financial decisions**.
-
-Throughout my career, I’ve applied **analytical thinking**, **project coordination**, and **performance tracking** to improve efficiency, optimise processes, and align teams around measurable outcomes. These experiences strengthened my ability to **translate complex datasets into clear, actionable insights**.
-
-After relocating to **London**, I expanded my technical expertise through the **Meta / TripleTen Data Analytics Certificate**, developing end-to-end projects using **Python, SQL, Power BI, Tableau, and Excel**. My recent work includes **dashboards, cohort analysis, ROI & ROMI measurement, and predictive modelling** across marketing, financial, and business intelligence contexts.
-
-I currently work on **independent projects and freelance collaborations**, focusing on transforming data into **decision-ready insights** that support data-driven strategies.
-
-<img src="icons/lupa.png" width="20"/> &nbsp;
-<b>Open to opportunities</b> in Data Analytics, Business Intelligence, and Performance Insights  
-
-<img src="icons/globo.png" width="20"/> &nbsp;
-Based in London, UK | Right to Work (Spouse Visa) | On-site / Hybrid / Remote
+> I’m a **Data Analyst** and **Business Analyst** with a strong foundation in **Mathematics (University of São Paulo – USP)** and over ten years of experience in the **publishing** and **education** industries, where I used data to support **strategic**, **operational**, and **financial decisions**.
+> 
+> Throughout my career, I’ve applied **analytical thinking**, **project coordination**, and **performance tracking** to improve efficiency, optimise processes, and align teams around measurable outcomes. These experiences strengthened my ability to **translate complex datasets into clear, actionable insights**.
+> 
+> After relocating to **London**, I expanded my technical expertise through the **Meta / TripleTen Data Analytics Certificate**, developing end-to-end projects using **Python, SQL, Power BI, Tableau, and Excel**. My recent work includes **dashboards, cohort analysis, ROI & ROMI measurement, and predictive modelling** across marketing, financial, and business intelligence contexts.
+> 
+> I currently work on **independent projects and freelance collaborations**, focusing on transforming data into **decision-ready insights** that support data-driven strategies.
+> 
+> <img src="icons/lupa.png" width="20"/> &nbsp; <b>Open to opportunities</b> in Data Analytics, Business Intelligence, and Performance Insights  
+> <img src="icons/globo.png" width="20"/> &nbsp; Based in London, UK | Right to Work (Spouse Visa) | On-site / Hybrid / Remote
 
 ---
 
-## <img src="icons/techstack.png" width="40"/> &nbsp; Tools & Technologies
+## Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-0A3756?style=flat&logo=python&logoColor=F5F7FA&labelColor=E8AA3A)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-0A3756?style=flat&logo=postgresql&logoColor=F5F7FA&labelColor=E8AA3A)
@@ -53,7 +50,7 @@ Based in London, UK | Right to Work (Spouse Visa) | On-site / Hybrid / Remote
 
 ---
 
-## <img src="icons/dashboard.png" width="40"/> &nbsp; Featured Projects
+## Featured Projects
 
 A curated selection of **end-to-end data analytics projects** demonstrating skills across **data cleaning**, **exploratory analysis**, **visualisation**, and **business insight generation** — covering **marketing**, **product**, **education**, and **business intelligence** domains.
 Each project applies real-world analytical workflows using **Python**, **SQL**, **Tableau**, **Power BI**, and **Streamlit**, transforming data into **actionable insights** that support **data-driven decision-making**.
@@ -123,14 +120,14 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
   
 ---
 
-## <img src="icons/certificado.png" width="28"/> &nbsp; Certifications
+## Certifications
 
 - **Meta Data Analytics Professional Certificate**  
 - **TripleTen Data Analytics Bootcamp**
 
 ---
 
-## <img src="icons/globo.png" width="28"/> &nbsp; Let's Connect
+## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/marcela-maris-642b6938/)  
 - [Email](mailto:marcelaspmaris@gmail.com)  
