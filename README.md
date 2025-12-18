@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover-readme.png" width="100%" alt="Marcela Maris – Data Analyst">
+  <img src="cover-readme (1).png" width="100%" alt="Marcela Maris – Data Analyst">
 </p>
 
 # Hi, I'm Marcela Maris
