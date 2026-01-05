@@ -88,33 +88,6 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
 
 ---
 
-### <img src="icons/dashboard.png" width="40"/> &nbsp; [YouTube Trending Analysis Dashboard](https://github.com/MarcelaMaris/YouTube-Trending-Analysis-Dashboard)
-  End-to-end Tableau project analysing **global YouTube trending videos**, exploring **category distribution, regional popularity, and temporal dynamics**.
-  Built an **interactive Tableau Public dashboard** to visualise global trends and regional preferences (US, France, India, Japan, Russia).
-  The workflow covered **data aggregation, transformation, dashboard design, filter integration**, and **insight extraction**.
-  [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/YoutubeTreendingDashboard-final/Dashboard1) · [Presentation (PDF)](https://1drv.ms/b/c/d1aeda57ea1dab69/ETe6SLqfANVPtnPp9PAoVTABSbvMgP2WEDA1WBingSMKIA?e=0Y2jAV)
-  
----
-### <img src="icons/education.png" width="40"/> &nbsp; [Education Performance Interactive Dashboard](https://github.com/MarcelaMaris/Education-Performance-Interactive-Dashboard)
-  Interactive dashboard built with **Streamlit** and **Plotly** to analyse **student performance metrics** from national exam data.
-  Explored **achievement patterns by gender, subject, and age group**, demonstrating **visual storytelling** and **app deployment** skills.
-  Highlighted how **educational data** can be transformed into **actionable insights** for policy and performance evaluation.
-  [Live Dashboard](https://dashboard-enem-tvu8.onrender.com)
-
----
-### <img src="icons/testingAB.png" width="40"/> &nbsp; [A/B Testing — Recommender System Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
-  Simulated a **product optimisation experiment** to assess the impact of a **new recommender system** on user conversion.
-  Included **data validation**, **conversion funnel construction**, **exploratory analysis**, and **proportion Z-tests** to evaluate statistical significance.
-  Findings informed **data-driven product rollout** and **feature-adoption strategies**.
-  
----
-### <img src="icons/business.png" width="40"/> &nbsp; [Business Reporting with SQL – Multi-table Data Exploration](https://github.com/MarcelaMaris/Business-Reporting-with-SQL-Multi-table-Data-Exploration)
-  Demonstrated **SQL-based data modelling** and **KPI generation** using a **multi-table relational dataset**.
-  Covered **schema validation**, **data quality checks**, and **analytical queries** for **financial performance** and **category trend analysis**.
-  Results were summarised in **visual reports** simulating **business intelligence dashboards**, supporting **strategic and financial reporting** workflows.
-  
----
-
 ## Certifications
 
 - **Meta Data Analytics Professional Certificate**  
