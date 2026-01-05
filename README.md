@@ -76,7 +76,7 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
 ### <img src="icons/cohort.png" width="40"/> &nbsp; [Customer Segmentation & Churn Analysis](https://github.com/MarcelaMaris/Customer-Segmentation-Churn-Analysis) 
   Focused on **customer segmentation** and **churn prediction** using transactional data.
   Implemented **data cleaning**, **exploratory analysis**, **K-Means clustering**, and **predictive modelling** with **Logistic Regression** and **Random Forest**.
-  Delivered insights through an **interactive Tableau dashboard**, supporting **targeted marketing strategies** and **retention campaigns**.
+ s through an **interactive Tableau dashboard**, supporting **targeted marketing strategies** and **retention campaigns**.
   [Live Tableau Dashboard](https://public.tableau.com/app/profile/marcela.stephanie.pereira.maris1628/viz/DashboarddeAnlisedeClientes/Dashboard1)
 
 ---
@@ -85,9 +85,10 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
   Built **behavioural funnels** (Main → Offers → Cart → Payment) and conducted **A/A/B tests** using **two-proportion Z-tests with Bonferroni correction** to ensure statistical validity.
   Included **temporal sequencing**, **date consistency validation**, and **group balance checks** for data quality.
   Findings helped assess **conversion efficiency** and support **evidence-based product decisions**.
+  
+<sub>*Other projects available in my GitHub repositories.*
 
 ---
-
 ## Certifications
 
 - **Meta Data Analytics Professional Certificate**  
