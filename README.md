@@ -62,7 +62,7 @@ Each project applies real-world analytical workflows using **Python**, **SQL**, 
   End-to-end analysis of **student engagement, retention, and dropout behaviour** in large-scale online education using the Open University Learning Analytics Dataset (OULAD).
   The project combines behavioural feature engineering, engagement funnels, cohort retention analysis, and clustering to identify **early disengagement signals and high-risk student profiles**.
   Findings were translated into a **single-page Power BI executive dashboard**, designed to support early-warning systems, targeted interventions, and data-driven retention strategies in digital   education platforms. <br>
-  **Power BI dashboard (PDF & .pbix):** [Dowload_Dashboard (PDF)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/docs/dashboard/Who_Will_Drop_Out_Dashboard.pdf) & [PowerBI (pbix)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/PowerBI/Who_Will_Drop_Out_Student_Retention_PowerBI_final.pbix)<br>
+  **Power BI dashboard (PDF & .pbix):** [Dowload_Dashboard (PDF)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/docs/Who_Will_Drop_Out_Dashboard.pdf) & [PowerBI (pbix)](https://github.com/MarcelaMaris/who-will-dropout/blob/main/PowerBI/Who_Will_Drop_Out_Student_Retention_PowerBI_final.pbix)<br>
 **Executive Presentation (PDF):** [Presentation](https://github.com/MarcelaMaris/who-will-dropout/blob/main/Student_Dropout_Analytics_Executive_Presentation.pdf)
 
 ---
